@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.0.2.apk",
-  "notes": "Player novo: ao tocar em Assistir o celular gira sozinho para deitado em tela cheia, com os controles do Lumen por cima.",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.0.3.apk",
+  "notes": "Correção: o player agora abre direto no app e o filme carrega (antes ficava tela preta em alguns celulares).",
   "mandatory": true,
-  "publishedAt": "2026-10-27T23:22:25Z"
+  "publishedAt": "2026-10-27T23:30:38Z"
 }
