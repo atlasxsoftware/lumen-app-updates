@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.0.4.apk",
-  "notes": "Quando um filme ou episódio não está disponível no player, o app mostra um aviso (e o botão para o próximo episódio) em vez de tela branca.",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.0.5.apk",
+  "notes": "Continuar assistindo de onde parou + atualização aparece com o app aberto.",
   "mandatory": true,
-  "publishedAt": "2026-10-27T23:36:09Z"
+  "publishedAt": "2026-10-27T23:56:53Z"
 }
