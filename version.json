@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
+  "versionCode": 11,
+  "versionName": "1.0.8",
   "apkUrl": "https://github.com/atlasxsoftware/lumen-app-updates/raw/refs/heads/main/apk/lumen-1.0.8.apk",
   "notes": "Fixamento do bug de Banners",
   "mandatory": true,
-  "publishedAt": "2026-10-28T00:22:58.510Z"
+  "publishedAt": "2026-10-28T00:24:08.355Z"
 }
