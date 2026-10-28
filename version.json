@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.1.0.apk",
-  "notes": "Corrigimento do bug dos banners do carroseis",
+  "versionCode": 15,
+  "versionName": "1.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.2.0.apk",
+  "notes": "Atualização o APP vai passar a ser atualizado juntamente com o nosso site fique atentos para novas atualizações!",
   "mandatory": true,
-  "publishedAt": "2026-10-28T00:42:20Z"
+  "publishedAt": "2026-10-28T15:21:49Z"
 }
