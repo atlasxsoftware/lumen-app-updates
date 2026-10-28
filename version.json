@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.2.0",
-  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.2.0.apk",
+  "versionCode": 16,
+  "versionName": "1.3.0",
+  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.3.0.apk",
   "notes": "Atualização o APP vai passar a ser atualizado juntamente com o nosso site fique atentos para novas atualizações!",
   "mandatory": true,
-  "publishedAt": "2026-10-28T15:21:49Z"
+  "publishedAt": "2026-10-28T15:39:53Z"
 }
