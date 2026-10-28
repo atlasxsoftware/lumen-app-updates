@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.0.6.apk",
-  "notes": "Corrige o banner da tela inicial que travava no meio da troca.",
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://raw.githubusercontent.com/atlasxsoftware/lumen-app-updates/main/apk/lumen-1.0.7.apk",
+  "notes": "Atualizações passam a aparecer na hora: o app confere a cada 3 segundos, também ao abrir.",
   "mandatory": true,
-  "publishedAt": "2026-10-28T00:06:24Z"
+  "publishedAt": "2026-10-28T00:09:07Z"
 }
